@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "1999",
+  "base_artist": "羊文学",
+  "createdAt": "2025-12-17T15:01:24.380756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1999",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/01_1999_Prince.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "After All - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/02_After_All_-_1999_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Candidate - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/03_Candidate_-_1999_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everything's Alright - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/04_Everything's_Alright_-_1999_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Running Gun Blues - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_Running_Gun_Blues_-_1999_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Saviour Machine - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_Saviour_Machine_-_1999_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Scream Like A Baby - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/07_Scream_Like_A_Baby_-_1999_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "See Emily Play - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_See_Emily_Play_-_1999_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shapes Of Things - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Shapes_Of_Things_-_1999_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "She Shook Me Cold - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/10_She_Shook_Me_Cold_-_1999_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Thing - 1999 Digital Remaster",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/11_Sweet_Thing_-_1999_Digital_Remaster_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet Thing - Reprise; 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/12_Sweet_Thing_-_Reprise;_1999_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Schund (Live im Capitol Mannheim 1999)",
+      "artist": "Fünf Sterne Deluxe",
+      "has_synced": false,
+      "path": "select/13_Schund_(Live_im_Capitol_Mannheim_1999)_Fünf_Sterne_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Schund (Live Im Capitol, Mannheim 1999)",
+      "artist": "Fünf Sterne Deluxe",
+      "has_synced": false,
+      "path": "select/14_Schund_(Live_Im_Capitol,_Mannheim_1999)_Fünf_Sterne_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tonight (with Tina Turner) - 1999 Remastered Version",
+      "artist": "David Bowie & Tina Turner",
+      "has_synced": true,
+      "path": "select/15_Tonight_(with_Tina_Turner)_-_1999_Remastered_Version_David_Bowie_&_Tina_Turner.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Are The Dead - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_We_Are_The_Dead_-_1999_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Got Me (1999 Version) [Live]",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/17_You_Got_Me_(1999_Version)_[Live]_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Time Seller (Unreleased Version without Strings, 1967/1999)",
+      "artist": "The Spencer Davis Group",
+      "has_synced": true,
+      "path": "select/18_Time_Seller_(Unreleased_Version_without_Strings,_1967_1999)_The_Spencer_Davis_Group.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "All I Want To Do Is Rock - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/19_All_I_Want_To_Do_Is_Rock_-_Live_At_Glastonbury_Festival___1999_Travis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1999",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_1999_羊文学.txt"
+    }
+  ]
+}
